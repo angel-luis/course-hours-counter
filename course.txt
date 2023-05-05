@@ -1,0 +1,9 @@
+﻿Start
+ Introduction to the course
+Section 00: Python Fundamentals
+
+Start
+ Why Use Python (2:23 )
+
+Start
+ The Number 1 of Python (5:39 )
