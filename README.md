@@ -1,6 +1,6 @@
 ## Overview
 
-Small project for learning Python. This script, given an unordered list of course titles, descriptions and timestamps in _txt_, extracts only the timestamp in `(minutes:seconds )` format.
+Small project for learning Python. This script, given an unordered list of course titles, descriptions and timestamps in _txt_, extracts only the timestamp in `(minutes:seconds )` format and gives the total duration.
 
 ## Usage
 
